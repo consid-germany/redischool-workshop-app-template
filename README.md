@@ -2,6 +2,10 @@
 
 A minimal React, TypeScript, and Vite starter for workshop app ideas. The app displays **Hello World**.
 
+## Customize for an app idea
+
+When forking this repository, fill in [APP_BRIEF.md](APP_BRIEF.md) with the app idea, main user journey, and demo acceptance criteria. The agent follows the shared defaults in [AGENTS.md](AGENTS.md); record any explicit participant overrides in the brief.
+
 ## Install prerequisites
 
 To run the app, you need **Node.js 24 LTS**, **npm** (included with Node.js), and a web browser. Install **Git** to clone the repository and save changes. React, TypeScript, and Vite are installed locally by `npm ci`; they do not need separate system-wide installations.

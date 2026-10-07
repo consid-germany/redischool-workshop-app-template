@@ -147,3 +147,14 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Local IDE and editor files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+.vs/
+*.sublime-workspace
+*.swp
+*.swo
+*~
