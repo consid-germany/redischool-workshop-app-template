@@ -1,0 +1,1 @@
+# redischool-workshop-app-template
